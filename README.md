@@ -16,6 +16,7 @@ def my_great_method
   puts "here it is"
 end
 ```
+
 ```javascript
 alert('Hi there')
 ```
@@ -38,4 +39,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Let's see if this change works
+
+* Another test
